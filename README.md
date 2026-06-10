@@ -16,7 +16,7 @@ tags: []
   <strong>Learn • Build • Experiment • Deploy</strong>
 </p>
 
-![MLVerse Machine Learning Banner](assets/banner.png)
+![MLVerse Machine Learning Banner](https://github.com/MLVerse-Math/.github/blob/main/assets/mlverse-banner-1.png)
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)
