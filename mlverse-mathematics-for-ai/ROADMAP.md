@@ -86,8 +86,7 @@ Understand how data, transformations, and neural networks are represented mathem
 - [ ] Rank
 - [ ] Basis and Dimension
 - [ ] Orthogonality
-- [ ] Eigenvalues
-- [ ] Eigenvectors
+- [ ] Eigenvalues_Eigenvectors
 - [ ] Matrix Decompositions
 - [ ] SVD
 - [ ] PCA
